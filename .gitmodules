@@ -1,0 +1,7 @@
+[submodule "themes/zozo"]
+	path = themes/zozo
+	url = https://github.com/varkai/hugo-theme-zozo
+[submodule "superhu.github.io"]
+	path = superhu.github.io
+	url = https://github.com/bamboo-cp3/superhu.github.io.git
+	branch = main
